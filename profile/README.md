@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-[Harish Lab](https://www.harishlab.com) is a part of the Department of Mechanical and Aerospace Engineering in University of Manchester. Please visit our website to know more about our work. This GitHub organisation contains our old work that are not being updated and archived. For our current work, please visit the GitHub repository at [Harish Research Lab](https://github.com/Harish-Research-Lab).
+[Harish Lab](https://www.harishlab.com) is a part of the Department of Mechanical and Aerospace Engineering in University of Manchester. Please visit our website to know more about our work. This GitHub organisation contains our old work that are not being updated and archived. For our current work, please visit the GitHub repository at [Harish Lab](https://github.com/Harish-Research-Lab).
